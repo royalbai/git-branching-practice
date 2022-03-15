@@ -11,3 +11,7 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 body {
     background-color: #FF8C00;
 }
+
+h1 {
+    color: navy;
+}
